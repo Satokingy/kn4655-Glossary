@@ -11,7 +11,8 @@
  A.現時点ではiOS向けに配布しておりません。
  
  Q.PCではできないの？
- A.Androidエミュレーター(イチオシはLDPlayer)を入れると遊べます。Windows向けにも作れるけどサポートするのが面倒
+ A.Windows版をご利用ください。
+ https://github.com/Satokingy/kn4655-Windows/releases/tag/v.1.0
  
  Q.バグったんだけど？
  A.開発者にTwitterでDMして報告してくれると助かります。
